@@ -1,0 +1,19 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oviyum/pdf-generator.git"
+  },
+  "author": "Mohit Agrawal <beingmohit09@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oviyum/pdf-generator/issues"
+  },
+  "homepage": "https://github.com/Oviyum/pdf-generator#readme"
+}
